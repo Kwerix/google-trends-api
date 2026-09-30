@@ -1,0 +1,6 @@
+{
+    "name": "kwerix-google-trends-api-examples",
+    "private": true,
+    "type": "module",
+    "dependencies": { "apify-client": "^2.9.0" }
+}

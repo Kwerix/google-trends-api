@@ -1,0 +1,78 @@
+[
+  {
+    "type": "trending",
+    "keyword": "wnba playoffs",
+    "geo": "US",
+    "isActive": true,
+    "startedAt": "2026-09-29T12:10:00.000Z",
+    "endedAt": null,
+    "searchVolume": 5000000,
+    "searchVolumeLabel": "5M+",
+    "increasePct": 1000,
+    "categories": [
+      "Sports"
+    ],
+    "relatedQueries": [
+      "aces vs fever",
+      "fever",
+      "wnba",
+      "wnba playoffs bracket",
+      "indiana fever",
+      "fever game",
+      "wnba games",
+      "fever vs aces",
+      "las vegas aces",
+      "aces vs fever where to watch",
+      "wnba games today",
+      "fever game tonight",
+      "aces wnba",
+      "fever score",
+      "las vegas aces vs indiana fever match player stats",
+      "jackie young",
+      "kelsey mitchell",
+      "wnba playoff bracket",
+      "indiana fever schedule",
+      "las vegas aces vs indiana fever timeline",
+      "indiana fever vs las vegas aces match player stats",
+      "fever game today",
+      "wnba scores",
+      "wnba brackets",
+      "aja wilson",
+      "stephanie white",
+      "raven johnson",
+      "a'ja wilson",
+      "fever vs aces where to watch",
+      "where to watch indiana fever vs las vegas aces"
+    ],
+    "trendingHours": 168,
+    "trendsUrl": "https://trends.google.com/trends/explore?q=wnba+playoffs&date=now+7-d&geo=US",
+    "scrapedAt": "2026-09-30T10:00:34.804Z"
+  },
+  {
+    "type": "trending",
+    "keyword": "cornell university",
+    "geo": "US",
+    "isActive": true,
+    "startedAt": "2026-09-25T21:00:00.000Z",
+    "endedAt": null,
+    "searchVolume": 1000000,
+    "searchVolumeLabel": "1M+",
+    "increasePct": 1000,
+    "categories": [
+      "Other"
+    ],
+    "relatedQueries": [
+      "cornell",
+      "jane doe",
+      "diego sarabia",
+      "where is cornell university",
+      "scott kretzschmar",
+      "matthew ingalls",
+      "chi phi fraternity",
+      "cornell college"
+    ],
+    "trendingHours": 168,
+    "trendsUrl": "https://trends.google.com/trends/explore?q=cornell+university&date=now+7-d&geo=US",
+    "scrapedAt": "2026-09-30T10:00:34.804Z"
+  }
+]

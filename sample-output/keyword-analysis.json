@@ -1,0 +1,159 @@
+[
+  {
+    "type": "keyword",
+    "keyword": "sunscreen",
+    "geo": "US",
+    "timeRange": "today 5-y",
+    "property": "web",
+    "category": 0,
+    "averageInterest": 26.3,
+    "latestInterest": 17,
+    "peakInterest": 100,
+    "peakDate": "2026-06-07",
+    "trendSlopePctPerYear": 21.6,
+    "yoyChangePct": 55.9,
+    "seasonality": {
+      "isSeasonal": true,
+      "seasonalityIndex": 1.6,
+      "peakConsistency": 1,
+      "peakMonths": [
+        "Jun",
+        "May",
+        "Apr"
+      ],
+      "monthlyProfile": {
+        "Jan": 14.1,
+        "Feb": 19.2,
+        "Mar": 28.2,
+        "Apr": 40.3,
+        "May": 48.1,
+        "Jun": 53,
+        "Jul": 38.5,
+        "Aug": 23.6,
+        "Sep": 15.2,
+        "Oct": 11,
+        "Nov": 11.6,
+        "Dec": 11.5
+      },
+      "nextPeakDate": "2027-06-08",
+      "daysUntilPeak": 251,
+      "publishBy": "2027-04-24",
+      "publishWindowOpen": true
+    },
+    "breakoutQueries": [
+      "beauty of joseon",
+      "beauty of joseon sunscreen",
+      "joseon sunscreen",
+      "anua sunscreen",
+      "byoma sunscreen",
+      "beauty of joseon tinted sunscreen",
+      "tower 28 tinted sunscreen",
+      "skin1004 sunscreen",
+      "sky and sol sunscreen",
+      "beauty of joseon sunscreen stick",
+      "tocobo sunscreen"
+    ],
+    "risingQueries": [
+      {
+        "query": "beauty of joseon",
+        "value": 73650,
+        "formattedValue": "Breakout",
+        "isBreakout": true
+      },
+      {
+        "query": "beauty of joseon sunscreen",
+        "value": 58550,
+        "formattedValue": "Breakout",
+        "isBreakout": true
+      },
+      {
+        "query": "joseon sunscreen",
+        "value": 57700,
+        "formattedValue": "Breakout",
+        "isBreakout": true
+      },
+      {
+        "query": "anua sunscreen",
+        "value": 18800,
+        "formattedValue": "Breakout",
+        "isBreakout": true
+      },
+      {
+        "query": "byoma sunscreen",
+        "value": 17450,
+        "formattedValue": "Breakout",
+        "isBreakout": true
+      }
+    ],
+    "topQueries": [
+      {
+        "query": "best sunscreen",
+        "value": 100,
+        "formattedValue": "100",
+        "isBreakout": false
+      },
+      {
+        "query": "face sunscreen",
+        "value": 87,
+        "formattedValue": "87",
+        "isBreakout": false
+      },
+      {
+        "query": "mineral sunscreen",
+        "value": 63,
+        "formattedValue": "63",
+        "isBreakout": false
+      },
+      {
+        "query": "tinted sunscreen",
+        "value": 50,
+        "formattedValue": "50",
+        "isBreakout": false
+      },
+      {
+        "query": "sunscreen for face",
+        "value": 43,
+        "formattedValue": "43",
+        "isBreakout": false
+      }
+    ],
+    "interestByRegion": [
+      {
+        "geoCode": "US-WY",
+        "geoName": "Wyoming",
+        "value": 100
+      },
+      {
+        "geoCode": "US-HI",
+        "geoName": "Hawaii",
+        "value": 80
+      },
+      {
+        "geoCode": "US-CA",
+        "geoName": "California",
+        "value": 53
+      },
+      {
+        "geoCode": "US-DC",
+        "geoName": "District of Columbia",
+        "value": 42
+      },
+      {
+        "geoCode": "US-FL",
+        "geoName": "Florida",
+        "value": 41
+      }
+    ],
+    "comparison": {
+      "anchor": "retinol",
+      "averageOnCommonScale": 26.27,
+      "rank": 1,
+      "of": 12,
+      "lowPrecision": false,
+      "timeline": null
+    },
+    "interestOverTime": null,
+    "trendsUrl": "https://trends.google.com/trends/explore?q=sunscreen&date=today+5-y&geo=US",
+    "scrapedAt": "2026-09-30T00:47:05.498Z"
+  }
+]
